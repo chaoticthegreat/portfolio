@@ -19,7 +19,7 @@
 			</Card.Description>
 		</div>
 		<div class="h-full justify-self-end">
-			<enhanced:img src={logo} class="mb-2 rounded-sm" alt={`${title} logo`} />
+			<img src={logo} class="mb-2 rounded-sm" alt={`${title} logo`} />
 		</div>
 	</Card.Header>
 	<Card.Content>

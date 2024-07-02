@@ -1,7 +1,7 @@
-import picklistvoter from '$lib/assets/projects/picklistvoter.png?enhanced';
-import robotichand from '$lib/assets/projects/robotichand.png?enhanced';
-import coursegen from '$lib/assets/projects/mateohacks.png?enhanced';
-import facialdetection from '$lib/assets/projects/facialdetection.png?enhanced';
+import picklistvoter from '$lib/assets/projects/picklistvoter.png';
+import robotichand from '$lib/assets/projects/robotichand.png';
+import coursegen from '$lib/assets/projects/mateohacks.png';
+import facialdetection from '$lib/assets/projects/facialdetection.png';
 
 // TODO: Use vite glob import to import all images from a folder and select them based on their name
 // const gallery = Object.values(import.meta.glob('@assets/asso/*.{png,jpg,jpeg,PNG,JPEG}', { eager: true, as: 'url' }))
