@@ -1,4 +1,4 @@
-import { Bot, School, FileCode, type Icon, Users, AudioLines, University } from 'lucide-svelte';
+import { Bot, School, FileCode, type Icon, Users, AudioLines, University, Church } from 'lucide-svelte';
 import type { ComponentType } from 'svelte';
 
 export type TimelineItem = {
@@ -29,7 +29,7 @@ const timeline: TimelineItem[] = [
 		startYear: 2022
 	},
 	{
-		title: 'Software Developer/Instructor',
+		title: 'Software Developer/Instructor/R&D',
 		subTitle: 'Little Sparks Robotics',
 		icon: School,
 		startYear: 2024
@@ -42,15 +42,17 @@ const timeline: TimelineItem[] = [
 	},
 	{
 		title: 'Software Developer/Team Lead',
-		subTitle: 'MateoHacks',
+		subTitle: 'MateoHacks 2024',
 		icon: FileCode,
-		startYear: 2024
+		startYear: 2024,
+		endYear: 2024
 	},
 	{
 		title: 'Software Developer/Team Lead',
-		subTitle: 'KhanLab Hackathon',
+		subTitle: 'KhanLab Hackathon 2024',
 		icon: FileCode,
-		startYear: 2024
+		startYear: 2024,
+		endYear: 2024
 	},
 	{
 		title: 'Co-Founder',
@@ -59,7 +61,7 @@ const timeline: TimelineItem[] = [
 		startYear: 2024
 	},
 	{
-		title: 'Officer',
+		title: 'Vice President',
 		subTitle: 'Software Development Club Valley Christian High School',
 		icon: Users,
 		startYear: 2024
@@ -81,6 +83,20 @@ const timeline: TimelineItem[] = [
 		subTitle: 'Cosmic Builders 30705',
 		icon: University,
 		startYear: 2024
+	},
+	{
+		title: 'Instructor',
+		subTitle: 'Alviso Yacht Club Summer Robotics',
+		icon: School,
+		startYear: 2024,
+		endYear: 2024
+	},
+	{
+		title: 'Crafts Teacher/Small Group Leader',
+		subTitle: 'Scuba KidzCamp @ Westgate Church',
+		icon: Church,
+		startYear: 2024,
+		endYear: 2024
 	}
 ];
 
