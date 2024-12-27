@@ -42,7 +42,7 @@ const timeline: TimelineItem[] = [
 	},
 	{
 		title: 'Software Developer/Team Lead',
-		subTitle: 'MateoHacks 2024',
+		subTitle: 'MateoHacks 2024 - 2nd Place',
 		icon: FileCode,
 		startYear: 2024,
 		endYear: 2024
@@ -75,6 +75,12 @@ const timeline: TimelineItem[] = [
 	{
 		title: 'Mentor',
 		subTitle: 'Cosmic Coders 30760',
+		icon: University,
+		startYear: 2024
+	},
+	{
+		title: 'Software/Innovation Mentor',
+		subTitle: 'Delta Rovers 57600',
 		icon: University,
 		startYear: 2024
 	},
