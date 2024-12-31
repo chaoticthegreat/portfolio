@@ -22,6 +22,10 @@ export const navConfig: NavConfig = {
 		{
 			title: 'Timeline',
 			href: '/timeline'
+		},
+		{
+			title: 'Resume',
+			href: "./ryan-abraham-resume.pdf"
 		}
 	],
 	sidebarNav: []
