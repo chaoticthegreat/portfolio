@@ -1,4 +1,13 @@
-import { Bot, School, FileCode, type Icon, Users, AudioLines, University, Church } from 'lucide-svelte';
+import {
+	Bot,
+	School,
+	FileCode,
+	type Icon,
+	Users,
+	AudioLines,
+	University,
+	Church
+} from 'lucide-svelte';
 import type { ComponentType } from 'svelte';
 
 export type TimelineItem = {
@@ -55,8 +64,8 @@ const timeline: TimelineItem[] = [
 		endYear: 2024
 	},
 	{
-		title: 'Co-Founder',
-		subTitle: 'AI Club Valley Christian High School',
+		title: 'Officer',
+		subTitle: 'ROAR Clumb Valley Christian High School',
 		icon: Users,
 		startYear: 2024
 	},
