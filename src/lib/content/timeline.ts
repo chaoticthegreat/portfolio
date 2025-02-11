@@ -6,7 +6,9 @@ import {
 	Users,
 	AudioLines,
 	University,
-	Church
+	Church,
+	Rocket,
+	FileJson
 } from 'lucide-svelte';
 import type { ComponentType } from 'svelte';
 
@@ -65,9 +67,27 @@ const timeline: TimelineItem[] = [
 	},
 	{
 		title: 'Officer',
-		subTitle: 'ROAR Clumb Valley Christian High School',
+		subTitle: 'ROAR Club Valley Christian High School',
 		icon: Users,
 		startYear: 2024
+	},
+	{
+		title: 'Teacher',
+		subTitle: 'Junior High International Space Station Program',
+		icon: Rocket,
+		startYear: 2025
+	},
+	{
+		title: 'Teacher',
+		subTitle: 'High School International Space Station Program',
+		icon: Rocket,
+		startYear: 2025
+	},
+	{
+		title: 'Instructor/Curriculum Developer',
+		subTitle: 'Software Workshops for High School Students',
+		icon: FileJson,
+		startYear: 2025
 	},
 	{
 		title: 'Vice President',
