@@ -4,7 +4,6 @@ import {
 	FileCode,
 	type Icon,
 	Users,
-	AudioLines,
 	University,
 	Church,
 	Rocket,
@@ -97,8 +96,14 @@ const timeline: TimelineItem[] = [
 	},
 	{
 		title: 'Audio/Visual Team',
-		subTitle: 'MTCSV',
-		icon: AudioLines,
+		subTitle: 'Mar Thoma Church of Silicon Valley',
+		icon: Church,
+		startYear: 2024
+	},
+	{
+		title: 'Website/Infrastructure Development Team',
+		subTitle: 'Mar Thoma Church of Silicon Valley',
+		icon: Church,
 		startYear: 2024
 	},
 	{
