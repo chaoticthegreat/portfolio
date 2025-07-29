@@ -44,11 +44,6 @@ This project has the following structure:
 - `static/`: Contains static files like `browserconfig.xml`, `site.webmanifest`, and fonts.
 - `.github/`: Contains GitHub related files like `dependabot.yml`, `renovate.json`, and workflows.
 - Configuration files: `.eslintignore`, `.eslintrc.cjs`, `.gitignore`, `.npmrc`, `.prettierignore`, `.prettierrc`, `postcss.config.cjs`, `svelte.config.js`, `tailwind.config.js`, `tsconfig.json`, `vite.config.ts`.
-
-## Contributing
-
-I'm open to contributions! If you find any bugs, have suggestions, or want to add something interesting, feel free to open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the terms of the [LICENSE](LICENSE) file.
