@@ -1,17 +1,3 @@
-<div align="center">
-    <a href="https://hellob.art/"><img src="https://github.com/bartvdbraak/hellob.art/assets/3996360/365337f4-0ad8-4107-bcb1-8a4843ceae94" alt="hellob.art" width="30%"></a>
-    <p><em>current work and studies in a SvelteKit-based portfolio</em></p>
-</div>
-
-<div align="center">
-  <a href="https://sonarcloud.io/summary/new_code?id=bartvdbraak_hellob.art"><img src="https://sonarcloud.io/api/project_badges/measure?project=bartvdbraak_hellob.art&metric=alert_status" /></a>
-  <a href="https://hellobart-unlighthouse.pages.dev"><img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bartvdbraak/795a3d6af5b0db5754cf7279898c3c16/raw/hellob.art-unlighthouse.json" /></a>
-  <a href="https://github.com/bartvdbraak/hellob.art/deployments/activity_log?environment=Production"><img src="https://img.shields.io/github/deployments/bartvdbraak/hellob.art/production?label=vercel&logo=vercel" /></a>
-</div>
-
-## Description
-
-This is a personal website built with Svelte and SvelteKit. It includes a variety of components and routes, and it's styled with Tailwind CSS. The project is set up with a number of quality assurance tools, including ESLint, Prettier, and Husky.
 
 ## Installation
 
