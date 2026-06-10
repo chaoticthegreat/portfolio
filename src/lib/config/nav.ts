@@ -24,6 +24,10 @@ export const navConfig: NavConfig = {
 			href: '/timeline'
 		},
 		{
+			title: 'Photos',
+			href: '/photos'
+		},
+		{
 			title: 'Resume',
 			href: "./ryan-abraham-resume.pdf"
 		}
